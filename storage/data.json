@@ -1,1 +1,22 @@
-{}
+{
+    "2022-10-29 20:20:58.020261": {
+        "username": "krabaton",
+        "message": "First message"
+    },
+    "2022-10-29 20:21:11.812177": {
+        "username": "Krabat",
+        "message": "Second message"
+    },
+    "2025-02-23T20:48:08.803477": {
+        "username": "Victor",
+        "message": "Hello"
+    },
+    "2025-02-23T20:48:18.260219": {
+        "username": "Victor",
+        "message": "Alloha"
+    },
+    "2025-02-23T21:04:28.653426": {
+        "username": "Victor",
+        "message": "Ahoj"
+    }
+}

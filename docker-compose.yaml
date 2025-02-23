@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  # Сервіс для застосунку
+  app:
+    build: .
+    container_name: pythonweb_hw_03_app_container
+    ports:
+      - "3000:3000" # Проксіювання порту 3000 на хості до порту 3000 в контейнері
+    volumes:
+      - ./storage/data.json:/app/storage/data.json # Підключення файлу data.json до контейнера
